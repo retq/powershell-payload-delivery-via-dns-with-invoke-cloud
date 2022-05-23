@@ -1,0 +1,1 @@
+![image](https://2603957456-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LFEMnER3fywgFHoroYn%2F-LOt_uEsw4o26PMGOKck%2F-LOtglRjTv597hklO8L4%2Finvoke-powercloud-demo.gif?alt=media&token=3596039a-97d2-464e-a016-a8bca9e17c7f)
