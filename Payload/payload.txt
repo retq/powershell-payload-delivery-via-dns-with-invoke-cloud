@@ -1,0 +1,2 @@
+Write-host -foregroundcolor red "This is our first payload using Invoke-
+PowerCloud. As usual, let's pop the calc.exe"; Start-process calc.exe
